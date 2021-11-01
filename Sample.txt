@@ -1,0 +1,8 @@
+using System;
+class Sample
+{
+	public static void main()
+	{
+		console.writeLine("Hello");
+	}
+}
